@@ -1,0 +1,106 @@
+{
+  "general": [
+    {
+      "symptoms": ["fever", "headache", "chills"],
+      "condition": "Malaria",
+      "urgency": "severe"
+    },
+    {
+      "symptoms": ["sore throat", "cough", "runny nose"],
+      "condition": "Common Cold",
+      "urgency": "mild"
+    },
+    {
+      "symptoms": ["vomiting", "diarrhea", "abdominal pain"],
+      "condition": "Food Poisoning",
+      "urgency": "moderate"
+    },
+    {
+      "symptoms": ["fever", "rash", "joint pain"],
+      "condition": "Dengue Fever",
+      "urgency": "severe"
+    },
+    {
+      "symptoms": ["fatigue", "weight loss", "night sweats"],
+      "condition": "Tuberculosis",
+      "urgency": "severe"
+    },
+    {
+      "symptoms": ["sneezing", "itchy eyes", "nasal congestion"],
+      "condition": "Allergic Rhinitis",
+      "urgency": "mild"
+    },
+    {
+      "symptoms": ["fever", "abdominal pain", "constipation"],
+      "condition": "Typhoid Fever",
+      "urgency": "moderate"
+    },
+    {
+      "symptoms": ["headache", "sensitivity to light", "neck stiffness"],
+      "condition": "Meningitis",
+      "urgency": "severe"
+    },
+    {
+      "symptoms": ["dry cough", "fever", "difficulty breathing"],
+      "condition": "COVID-19",
+      "urgency": "severe"
+    },
+    {
+      "symptoms": ["fatigue", "pale skin", "shortness of breath"],
+      "condition": "Anemia",
+      "urgency": "moderate"
+    }
+  ],
+  "petroleum": [
+    {
+      "symptoms": ["dizziness", "skin irritation", "nausea"],
+      "condition": "Chemical Exposure",
+      "urgency": "moderate"
+    },
+    {
+      "symptoms": ["shortness of breath", "chest tightness", "cough"],
+      "condition": "Respiratory Hazard",
+      "urgency": "severe"
+    },
+    {
+      "symptoms": ["fatigue", "headache", "dehydration"],
+      "condition": "Heat Stress",
+      "urgency": "moderate"
+    },
+    {
+      "symptoms": ["blurred vision", "confusion", "slurred speech"],
+      "condition": "Gas Inhalation",
+      "urgency": "severe"
+    },
+    {
+      "symptoms": ["back pain", "joint stiffness", "muscle strain"],
+      "condition": "Ergonomic Injury",
+      "urgency": "mild"
+    },
+    {
+      "symptoms": ["eye redness", "burning sensation", "tearing"],
+      "condition": "Chemical Eye Irritation",
+      "urgency": "moderate"
+    },
+    {
+      "symptoms": ["ringing ears", "hearing loss", "ear pain"],
+      "condition": "Noise-Induced Hearing Damage",
+      "urgency": "moderate"
+    },
+    {
+      "symptoms": ["skin rash", "itching", "blisters"],
+      "condition": "Contact Dermatitis",
+      "urgency": "mild"
+    },
+    {
+      "symptoms": ["numbness", "tingling", "weak grip"],
+      "condition": "Vibration Syndrome",
+      "urgency": "moderate"
+    },
+    {
+      "symptoms": ["persistent cough", "weight loss", "chest pain"],
+      "condition": "Occupational Lung Disease",
+      "urgency": "severe"
+    }
+  ]
+}
